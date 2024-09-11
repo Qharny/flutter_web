@@ -67,6 +67,7 @@ To get started with these tutorials, make sure you have Flutter installed and co
 
 If you'd like to contribute to this project by adding more tutorials or improving existing content, please feel free to submit a pull request.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
